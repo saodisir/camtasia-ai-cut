@@ -17,7 +17,7 @@
 | `video-editor` skill | 装在 `~/.workbuddy/skills/video-editor`，能跑 `scripts/run.sh`，带百炼 ASR 凭据 |
 | 系统 `/usr/bin/python3`（3.9） | 本仓库 3 个脚本只用标准库，和 `video-editor` 的虚拟环境分开 |
 
-把目录放到 `~/.workbuddy/skills/camtasia-ai-cut/`。WorkBuddy 会在对话里按需加载 `SKILL.md`，在对话里说明要剪哪个工程就行。六步命令、参数、门禁判据和已知限制都写在 [SKILL.md](SKILL.md)。
+把目录放到 `~/.workbuddy/skills/camtasia-ai-cut/`。WorkBuddy 会在对话里按需加载 `SKILL.md`，说清楚要剪哪个工程就行。六步命令、参数、门禁判据和已知限制都写在 [SKILL.md](SKILL.md)。
 
 ## 目录里有什么
 
